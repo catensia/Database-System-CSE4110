@@ -1,4 +1,4 @@
-# Database System (CSE4110) Project #1
+# Database System (CSE4110) Project #2
 
 * Based on the E-R diagram made in project #1, execute the queries given
 
